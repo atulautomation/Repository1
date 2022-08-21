@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;TestNGAnnotation1.java&apos; to &apos;SeleniumProject1/src/pkg_SeleniumPractice&apos;&#x0D;&#x0A;- Original project: &apos;SeleniumProject1&apos;&#x0D;&#x0A;- Destination element: &apos;SeleniumProject1/src/pkg_SeleniumPractice&apos;&#x0D;&#x0A;- Original element: &apos;pkg_SeleniumPractice.TestNGAnnotation1.java&apos;" description="Copy compilation unit" destination="/src&lt;pkg_SeleniumPractice" element1="/src&lt;pkg_SeleniumPractice{TestNGAnnotation1.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1661085923835" units="1" version="1.0"/>
+</session>
